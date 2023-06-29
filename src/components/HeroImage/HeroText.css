@@ -1,0 +1,13 @@
+.hero-sec {
+    height: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 3rem;
+  }
+  
+  .hero-text {
+    color: #ffffff;
+  }
+  
